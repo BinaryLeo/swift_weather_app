@@ -11,6 +11,7 @@
 		F99D5F3D28794DDA004C6E6C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F99D5F3C28794DDA004C6E6C /* ContentView.swift */; };
 		F99D5F3F28794DDC004C6E6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F99D5F3E28794DDC004C6E6C /* Assets.xcassets */; };
 		F99D5F4228794DDC004C6E6C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F99D5F4128794DDC004C6E6C /* Preview Assets.xcassets */; };
+		F99D5F4B28794F9D004C6E6C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F99D5F4A28794F9D004C6E6C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		F99D5F3E28794DDC004C6E6C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F99D5F4128794DDC004C6E6C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F99D5F4328794DDC004C6E6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F99D5F4A28794F9D004C6E6C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +38,7 @@
 		F99D5F2E28794DDA004C6E6C = {
 			isa = PBXGroup;
 			children = (
+				F99D5F4A28794F9D004C6E6C /* README.md */,
 				F99D5F3928794DDA004C6E6C /* swift_weather_app */,
 				F99D5F3828794DDA004C6E6C /* Products */,
 			);
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F99D5F4B28794F9D004C6E6C /* README.md in Resources */,
 				F99D5F4228794DDC004C6E6C /* Preview Assets.xcassets in Resources */,
 				F99D5F3F28794DDC004C6E6C /* Assets.xcassets in Resources */,
 			);
